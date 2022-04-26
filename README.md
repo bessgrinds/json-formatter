@@ -1,6 +1,6 @@
 JSON Formatter
 ==============
-
+xViUbB7GyPl5xktPcCTL
 Chrome extension for printing JSON and JSONP nicely when you visit it 'directly' in a browser tab.
 
 Features
